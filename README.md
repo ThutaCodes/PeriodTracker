@@ -1,7 +1,3 @@
-# Period Tracker
-
-Live demo [https://electricg.github.io/period-tracker/](https://electricg.github.io/period-tracker/)
-
 ## Why
 
 - I wanted to play with some of the cool new browser API (service workers, add to home screen, background sync, etc...)
